@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+<<<<<<< HEAD
+=======
+![Employee data](/repository/assets/login form1.png?raw=true "Employee Data title")
+
+
+>>>>>>> d8ec452 (Initial commit)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
