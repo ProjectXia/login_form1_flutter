@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![ProjectXiA](https://github.com/ProjectXia/images/loginform1.png)
+![ProjectXiA](https://github.com/ProjectXia/images/loginform1.PNG)
 
 ## Getting Started
 
