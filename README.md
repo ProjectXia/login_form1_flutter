@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Login Form](/repository/assets/login form1.png?raw=true "Login Form1")
+![App Brewery Banner](https://github.com/ProjectXia/login_form1_flutter/tree/master/assets/loginform1.png)
 
 ## Getting Started
 
